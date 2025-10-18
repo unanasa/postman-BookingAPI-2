@@ -1,0 +1,1 @@
+newman run D:\\Postman_API_Testing_Training\\Booking_API.json -e D:\\Postman_API_Testing_Training\\Test_v1_Environment.json -d D:\\Postman_API_Testing_Training\\testdatacsv.csv --reporters=cli,htmlextra

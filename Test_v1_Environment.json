@@ -1,0 +1,39 @@
+{
+	"id": "b9dac992-72fb-4cb6-aa3b-945aec6d2c12",
+	"name": "Test_v1 Environment",
+	"values": [
+		{
+			"key": "fname",
+			"value": "John",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lname",
+			"value": "Cooke",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "act_b_Id",
+			"value": "1713",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "test_token",
+			"value": "2ebca6aac139dd4",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "baseURL",
+			"value": "https://restful-booker.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-10-16T22:46:00.500Z",
+	"_postman_exported_using": "Postman/11.67.4"
+}
